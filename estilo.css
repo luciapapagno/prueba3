@@ -62,7 +62,7 @@ height: 700px;}
 
 #titulo 
 {padding-left: 4%;
-padding-top:12%;}
+padding-top:18%;}
 
 #titulo h1
 {font-size:42px;
@@ -149,7 +149,7 @@ font-size:16px;}
 {float: left;
 width: 50%;
 padding-left:40px;
-padding-bottom: 6%;
+padding-bottom: 5%;
 padding-top: 2%;
 }
 
@@ -157,7 +157,7 @@ padding-top: 2%;
 {float: right;
 width: 50%;
 padding-left: 2%;
-padding-bottom: 6%;
+padding-bottom: 5%;
 padding-top: 2%;}
 
 .texto2
@@ -175,13 +175,13 @@ padding-top: 13px;}
 
 
 .formulario1
-{padding-top: 10px;}
+{padding-top: 12px;}
 
 .formulario2
-{padding-top: 10px;}
+{padding-top: 12px;}
 
 .formulario3
-{padding-top: 10px;
+{padding-top: 12px;
 padding-bottom: 7%;}
 
 .formulario
@@ -191,7 +191,7 @@ font-weight: 500;}
 .boton
 {border-radius: 10px;
 padding: 1.5%;
-margin-top: 5%;
+margin-top: 4%;
 font-family: 'Roboto Mono', monospace;
 color: #000000;
 background-color:rgba(155,153,153);
